@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="JenkinsMaven:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JenkinsMaven_jar</output-path>
+    <root id="root">
+      <element id="archive" name="JenkinsMaven.jar">
+        <element id="module-output" name="JenkinsMaven" />
+        <element id="module-test-output" name="JenkinsMaven" />
+      </element>
+      <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.3" />
+      <element id="library" level="project" name="Maven: junit:junit:4.13.2" />
+    </root>
+  </artifact>
+</component>
